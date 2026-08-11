@@ -1,6 +1,6 @@
 # nex
 
-esp32 based swarm bots based on cv and apriltags.
+esp32 based swarm bots based on cv, apriltags and a custom 4 layer pcb.
 
 ## design
 

@@ -1,5 +1,5 @@
 Item, Quantity, Cost, Source
-PCB, 10, $19.5, https://robu.in/product/online-pcb-manufacturing-service/
+PCB, 10, $34, https://robu.in/product/online-pcb-manufacturing-service/
 1uF 1206 SMD, 20, $5, https://www.amazon.in/1UF-1206-Ceramic-Capacitor-20Pcs/dp/B0DYJTLFDL
 0.1uF 1206 SMD, 60, $4.2, https://www.amazon.in/Steko-Capacitor-Tolerance-Electronic-Component/dp/B0D3D8HW51
 220nF 1206 SMD, 10, $2.7, https://www.amazon.in/220NF-Ceramic-Capacitor-WALSIN-0-22UF/dp/B0GDDTYT3W
@@ -49,4 +49,4 @@ N20-3V-100 RPM, 2, $2.52, https://robocraze.com/products/robocraze-dc6v-100rpm-g
 ,,,
 Total, 8, $110, -
 ,,,
-Final Total, ~, $283
+Final Total, ~, $297.5
