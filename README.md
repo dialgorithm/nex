@@ -4,6 +4,8 @@ esp32 based swarm bots based on cv, apriltags and a custom 4 layer pcb.
 
 ## design
 
+there's an esp32 wroom in each bot which is used to connect to the bots and for the bots to connect to each other. each bot will have april tags mounted on them which will be used to identify them using cv on the luckfox lyra zero w. firmware and code will be added once the project is built and i can debug and confirm it all runs.
+
 ### kicad
 
 |              schematic              |           pcb           |
@@ -23,3 +25,7 @@ esp32 based swarm bots based on cv, apriltags and a custom 4 layer pcb.
 ## bom
 
 click [here](bom.csv) for the bom.
+
+## firmware
+
+not yet, will be done once I've made the nex bots irl
